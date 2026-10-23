@@ -1,4 +1,4 @@
-<img width="1539" height="789" alt="image" src="https://github.com/user-attachments/assets/9d16d5e2-463e-4434-b583-bafe63e0ccef" /># Bank Customer Churn Analysis – Power BI & SQL
+# Bank Customer Churn Analysis – Power BI & SQL
 
 ## Problem Statement
 **Objective:** Help the bank reduce customer churn, improve service delivery, and enhance overall customer satisfaction.
